@@ -1,1 +1,1 @@
-DATA=sk_test_51HvMvxFpDhW000000000
+KEY=sk_test_51HvMvxFpDhW000000000
